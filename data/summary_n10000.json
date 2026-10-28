@@ -1,0 +1,59 @@
+{
+  "full": {
+    "name": "incident point (full)",
+    "n": 10000,
+    "tokens": 545,
+    "url_pct": 98.07,
+    "aliyun_pct": 0.0,
+    "routify_host_pct": 0.0,
+    "cats": {
+      "url_placeholder": 1076,
+      "url_other": 6929,
+      "url_metadata_ip": 79,
+      "url_localhost": 1723,
+      "no_url": 193
+    },
+    "top_hosts": [
+      [
+        "httpbin.org",
+        5311
+      ],
+      [
+        "example.com",
+        879
+      ],
+      [
+        "127.0.0.1:8080",
+        451
+      ],
+      [
+        "localhost:8080",
+        248
+      ],
+      [
+        "127.0.0.1:9",
+        179
+      ],
+      [
+        "transfer.sh",
+        162
+      ],
+      [
+        "127.0.0.1:9999",
+        139
+      ],
+      [
+        "ptsv3.com",
+        133
+      ],
+      [
+        "webhook.site",
+        105
+      ],
+      [
+        "127.0.0.1:9000",
+        88
+      ]
+    ]
+  }
+}
